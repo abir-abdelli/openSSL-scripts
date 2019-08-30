@@ -1,2 +1,2 @@
 # openSSL-scripts
-some scripts using openSSL
+some scripts of openSSL
